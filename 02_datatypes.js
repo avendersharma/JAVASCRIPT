@@ -22,6 +22,6 @@ let isloggedin=false
 console.log(typeof null)
 //null is object
 
-console.log(undefined)
+console.log(typeof undefined)
 
-//but undeffined is type
+//but undefined is type
