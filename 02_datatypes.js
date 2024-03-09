@@ -18,5 +18,10 @@ let isloggedin=false
 //symbol=> unique
 
 // object
+
 console.log(typeof null)
+//null is object
+
 console.log(undefined)
+
+//but undeffined is type
