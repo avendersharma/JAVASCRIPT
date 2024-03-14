@@ -36,10 +36,10 @@ const myn1=myarray.slice(1,3)
 console.log(myn1)
 console.log("B",myarray)
 
-const myn2=myarray.splice(1,3)
-console.log(myn2)  //splice also include 3 and 
-                  //  splice also manipulate original array Work
-                 //  as call by reference 
+const myn2=myarray.splice(1,3)   //start,deletecount
+console.log(myn2)               //splice also include 3 and 
+                               //  splice also manipulate original array Work
+                              //  as call by reference 
                                           
 
 console.log("c",myarray)
