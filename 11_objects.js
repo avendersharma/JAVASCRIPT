@@ -8,6 +8,7 @@ const jsuser={
     email:"avendersharma1981@gamil.com",
     isloggedin:false,
     lastlogindays:["monday","tuesday"],
+    
 
     //symbol interview important
 
@@ -47,3 +48,4 @@ jsuser.greetingtwo=function()
     console.log(`hello js user,${this.name}`);
 }
 console.log(jsuser.greetingtwo())
+
