@@ -10,3 +10,8 @@ const {name,price}=course
 // after writing above synbtax we can use name directly
 console.log(name)
 console.log(price);
+
+
+//randomuserme api
+
+
